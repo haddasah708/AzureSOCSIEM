@@ -38,6 +38,7 @@ Upon implementing the necessary improvements and mitigating vulnerabilities, I w
 <img src="https://github.com/haddasah708/haddasah708/blob/main/Screenshot%202023-07-15%20142258.png " height = 80% alt = "Azure SOC and SIEM Image"/>
 
 <h3>Section 2 : Logging and Monitoring </h3>
+
 - <b>Created Log Analytics Workspace and Setup/Connect Sentinel </b>
 - <b>Created an Azure Storage Account, a container within Account and uploading Geo-Data files. [Waiting for Data to load]</b>
 
